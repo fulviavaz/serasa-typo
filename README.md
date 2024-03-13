@@ -1,8 +1,3 @@
-![3172 - React: Evolua seu Design System com Tailwind](thumb.png)
-
-# Alfabit
-
-A Alfabit é uma inovadora empresa de tecnologia dedicada a fornecer soluções criativas e eficientes para seus clientes. Reconhecendo a importância do design consistente e intuitivo em todas as suas plataformas e produtos, a Alfabit decidiu investir em um design system de ponta.
 
 ## 🛠️ Instalação
 
