@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-Bold.ttf") format("ttf"),
+    url("../fonts/Roboto-Regular.ttf") format("ttf");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+@layer base {
+  :root {
+    /* Colors */ 
+
+  --dark-low: #8d93a1,
+    --dark-medium: #646b7e,
+    --dark-high: #323953,
+    --magenta: #ed0082,
+    --light-solid: #ffffff,
+    --light-high: #ebecf0,
+
+    /* Font Size */
+    --text-xs: 16px;
+    --text-sm: 20px;
+    --text-md: 24px;
+    --text-lg: 32px;
+    --text-xl: 40px;
+    --text-xxl: 48px;    
+  }
+
+}
